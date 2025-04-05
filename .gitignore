@@ -1,0 +1,5 @@
+tfenv/
+__pycache__/
+my_model.keras
+*.csv
+stocks (1).ipynb
