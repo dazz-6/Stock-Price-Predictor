@@ -1,7 +1,0 @@
-streamlit
-matplotlib
-pandas
-numpy
-keras
-scikit-learn
-yfinance
