@@ -1,8 +1,7 @@
 streamlit
+matplotlib
 pandas
 numpy
-yfinance
+keras
 scikit-learn
-matplotlib
-tensorflow
-
+yfinance
