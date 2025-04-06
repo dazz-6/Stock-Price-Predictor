@@ -5,4 +5,4 @@ numpy
 keras
 scikit-learn
 yfinance
-tensorflow
+tensorflow==2.11.0
